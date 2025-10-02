@@ -1,0 +1,70 @@
+# Carbonfox theme for Alacritty
+# Converted from ghostty theme configuration
+
+[colors.primary]
+
+background = "#161616"
+foreground = "#f2f4f8"
+bright_foreground = "#e4e4e5"
+
+[colors.cursor]
+
+text = "#161616"
+cursor = "#f2f4f8"
+
+[colors.vi_mode_cursor]
+
+text = "CellBackground"
+cursor = "CellForeground"
+
+[colors.selection]
+
+text = "#f2f4f8"
+background = "#2a2a2a"
+
+[colors.normal]
+
+black = "#282828"
+red = "#dc5e95"
+green = "#5cbb72"
+yellow = "#56bab9"
+blue = "#82a8f8"
+magenta = "#b897f8"
+cyan = "#5baff8"
+white = "#dfdfe0"
+
+[colors.bright]
+
+black = "#484848"
+red = "#e175a4"
+green = "#6dc586"
+yellow = "#62c4c3"
+blue = "#95b5f9"
+magenta = "#c2a6f9"
+cyan = "#6fbbf9"
+white = "#e4e4e5"
+
+[colors.search.matches]
+
+foreground = "#161616"
+background = "#56bab9"
+
+[colors.search.focused_match]
+
+foreground = "#161616"
+background = "#82a8f8"
+
+[colors.footer_bar]
+
+background = "#161616"
+foreground = "#f2f4f8"
+
+[colors.hints.start]
+
+foreground = "#161616"
+background = "#56bab9"
+
+[colors.hints.end]
+
+foreground = "#56bab9"
+background = "#161616"
